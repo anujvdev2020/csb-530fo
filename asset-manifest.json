@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://anujvdev2020.github.io/csb-530fo/static/css/main.1458a3dd.chunk.css",
+    "main.js": "https://anujvdev2020.github.io/csb-530fo/static/js/main.46502f15.chunk.js",
+    "main.js.map": "https://anujvdev2020.github.io/csb-530fo/static/js/main.46502f15.chunk.js.map",
+    "runtime-main.js": "https://anujvdev2020.github.io/csb-530fo/static/js/runtime-main.4431f7d3.js",
+    "runtime-main.js.map": "https://anujvdev2020.github.io/csb-530fo/static/js/runtime-main.4431f7d3.js.map",
+    "static/js/2.f2324eae.chunk.js": "https://anujvdev2020.github.io/csb-530fo/static/js/2.f2324eae.chunk.js",
+    "static/js/2.f2324eae.chunk.js.map": "https://anujvdev2020.github.io/csb-530fo/static/js/2.f2324eae.chunk.js.map",
+    "index.html": "https://anujvdev2020.github.io/csb-530fo/index.html",
+    "static/css/main.1458a3dd.chunk.css.map": "https://anujvdev2020.github.io/csb-530fo/static/css/main.1458a3dd.chunk.css.map",
+    "static/js/2.f2324eae.chunk.js.LICENSE.txt": "https://anujvdev2020.github.io/csb-530fo/static/js/2.f2324eae.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4431f7d3.js",
+    "static/js/2.f2324eae.chunk.js",
+    "static/css/main.1458a3dd.chunk.css",
+    "static/js/main.46502f15.chunk.js"
+  ]
+}
